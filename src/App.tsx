@@ -1098,7 +1098,7 @@ export default function App() {
                         <span className="text-xs font-semibold tracking-wider uppercase text-stone-700">Email advisory</span>
                       </a>
                       <a 
-                        href="https://linkedin.com/in/maria-lee" 
+                        href="https://www.linkedin.com/in/maria-lee-90b24137/" 
                         target="_blank" 
                         rel="noopener noreferrer"
                         className="flex flex-col items-center justify-center p-5 rounded-xl bg-[#fbfaf8] hover:bg-stone-100 transition-colors gap-2 border border-stone-200/50 shadow-sm"
